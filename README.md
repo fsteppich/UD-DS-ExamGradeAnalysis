@@ -22,9 +22,9 @@ The project is running with Python 3 and Jupyter Notebook. These libraries are r
 * re 
 
 ## Motivation for the project<a name="motivation"></a>
-This anaylsis and linked blog post was done as a project within the Udacity Data Science Nanodegree Program.
+This analysis is and linked blog post were done as a project within the Udacity Data Science Nanodegree Program.
 
-As a trainer of aspiring IT Specialists who want to become IT Operative Professionals in Germany, I'm interested on the insights that can be gained solely by looking at exam grades. The data set provides anonymized exam grades of students. The data was provided by a training center in Bavaria, Germany where I thought classes between 2017 and 2020. The data set contains grades of one year from Q4 2017 till Q3 2018. 
+As a trainer of aspiring IT Specialists who want to become IT Operative Professionals in Germany, I'm interested in the insights that can be gained solely by looking at exam grades. The data set provides anonymized exam grades of students. The data was provided by a training center in Bavaria, Germany where I thought classes between 2017 and 2020. The data set contains grades of one year from Q4 2017 till Q3 2018. 
 
 I am particularly interested in answering the following three questions: 
 
@@ -53,7 +53,7 @@ The detailed results can be found in this [blog post](https://fsteppich.github.i
   
 * *What exam correlates the most with the Lab Exam?*
 
-  The strongest correlation exits between the Foundation Exam and the Lab Exam.  
+  The strongest correlation exists between the Foundation Exam and the Lab Exam.  
   
   
 * *Is it possible to predict the grade in the Lab Exam based on other grades?*
@@ -64,8 +64,9 @@ The detailed results can be found in this [blog post](https://fsteppich.github.i
 ## Thanks, Authors, Acknowledgements<a name="licensing"></a> 
 Any feedback that helps me to improve this analysis is welcome.  
 
-You can find me on LinkedIn: https://www.linkedin.com/in/fst/ 
+You can find me on LinkedIn https://www.linkedin.com/in/fst/ 
 
 The accompanying blog post can be found on my GitHub page (https://fsteppich.github.io/blog/20200304-UD-DS-ExamGradeAnalysis)
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
+ 
