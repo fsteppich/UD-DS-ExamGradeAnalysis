@@ -64,7 +64,7 @@ The detailed results can be found in this [blog post](https://fsteppich.github.i
 ## Thanks, Authors, Acknowledgements<a name="licensing"></a> 
 Any feedback that helps me to improve this analysis is welcome.  
 
-You can find me on LinkedIn https://www.linkedin.com/in/fst/ 
+You can find me on LinkedIn https://www.linkedin.com/in/fsteppich/ 
 
 The accompanying blog post can be found on my GitHub page (https://fsteppich.github.io/blog/20200304-UD-DS-ExamGradeAnalysis)
 
